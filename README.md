@@ -1,10 +1,10 @@
 Hi, I'm Katharina!
 
-I'm an **international business student** specializing in finance, currently in the final years of my bachelor's degree. I’m passionate about financial markets and I’m actively preparing for a career in Global Markets
+I'm an **international business student** specializing in finance, currently in the final years of my bachelor's degree.
 
 My interests include **Global Markets & Trading**, as well as **Financial Modeling** and **Risk Analysis**.
 
-So far, I have gained basic knowledge in **Python** (regressions, data handling, plotting) through my studies. I now just started a course to develop skills in **R**. Furthermore, I am a proficient **Excel** user through previous experiences and a WSP crash course. I am currently learning how to develop financial models.
+So far, I have gained basic knowledge in **Python** (regressions, data handling, plotting) through my studies. I now just started a course to develop skills in **SQL**. Furthermore, I am a proficient **Excel** user through previous experiences and a WSP crash course. I can develop financial models (DCF and LBO models) and I am currently learning how to utilize VBA.
 
 I'm working on strengthening my programming and analytical toolkit through hands-on projects, courses, and self-study — and sharing my progress here.
 
